@@ -1,0 +1,131 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1, h2{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.butns{
+  margin: 0.4rem 1rem 0.4rem 0;
+}
+
+.carousel-item{
+  padding: 10%;
+}
+
+.card-header, .card-body{
+  text-align: center;
+}
+
+.container-fluid{
+  padding: 3% 6%;
+}
+
+.cta-text{
+  font-size: 3rem;
+}
+
+.food-im{
+  width: 80%;
+  border-radius: 5%;
+}
+
+.footer-icon{
+  padding: 0.6rem;
+  color: #ff4c68;
+}
+
+.footer-icon:hover{
+  color: #933A1F;
+}
+
+.navbar-brand{
+  font-size: 2.6rem;
+  font-weight: bold;
+}
+
+.navbar{
+  padding: 0 0 4rem 0;
+}
+
+.press-img{
+  width: 15rem;
+  margin: 2rem 2rem 3.5rem;
+}
+
+.pricing-intro{
+  text-align: center;
+  padding-bottom: 1rem;
+  color: white;
+}
+
+.nav-item{
+  padding: 0 15px 0 15px;
+  font-size: 20px;
+}
+
+.testimoni{
+  text-align: center;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+
+}
+
+.test-img{
+  border-radius: 100%;
+  width: 30%;
+}
+
+.test-icon{
+  color: #ef8172;
+  font-size: 5rem; /*icon size*/
+}
+
+.test-icon:hover{
+  color: #ff4c68;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 3rem;
+  color: white;
+
+}
+
+#footer{
+  text-align: center;
+  margin: 3rem 3rem 5rem;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+}
+
+#press{
+  text-align: center;
+  padding: 3rem 4rem 1rem;
+}
+
+#pricing{
+  padding: 3rem;
+  background-color: #ff4c68;
+}
+
+#title{
+  background-color: #ff4c68;
+  color: white;
+}
+
+@media (max-width: 995px){
+
+  #title{
+    text-align: center;
+  }
+
+}
